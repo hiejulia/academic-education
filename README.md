@@ -2,9 +2,9 @@
 
 ## Master degree 
 + Computer Science 
-  + Harvard 
+  + Harvard : on going 
   + Stanford
-  + MIT
+  + MIT : on going 
 + Information networks 
   + MIT 
 
