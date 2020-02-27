@@ -6,7 +6,7 @@
   + Stanford
   + MIT
 + Information networks 
-  + 
+  + MIT 
 
 
 ## Bachelor degree 
