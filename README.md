@@ -2,7 +2,7 @@
 
 ## Master degree 
 + Computer Science 
-  + Harvard 
+  + Harvard : on going 
   + Stanford
   + MIT
 + Information networks 
@@ -14,11 +14,19 @@
   + Harvard 
   + Yale
 + Electronics engineer 
+  + Princeton
 + Biomedical engineer 
+  + Harvard
 + Industrial engineer
+  + ETH Zurich
 + Building technology 
+  + NTU 
 + Economics
+  + Harvard
 + Energy technology 
+  + Yale
 + Mechanical engineer 
+  + Stanford 
 + Mechatronics
+  + MIT 
 
