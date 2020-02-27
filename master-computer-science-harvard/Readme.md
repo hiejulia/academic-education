@@ -4,6 +4,9 @@
     AM 207 Advanced Scientific Computing: Stochastic Methods for Data Analysis, Inference, and Optimization
     CS 205 Computing Foundations for Computational Science
     CS 207 Systems Development for Computational Science
+    COMPSCI 20 Discrete Mathematics for Computer Science
+    COMPSCI 145 Networking at scale 
+
 
 
 
@@ -13,10 +16,10 @@
 									
 
 #### Popular Electives
-    AM 221 Advanced Optimization
+    AM 221 Advanced Optimization : is doing 
     AM 227 Computational Methods in the Physical Sciences
     AM 231 Decision Theory
-    CS 165 Data Systems
+    CS 165 Data Systems : DONE 
     CS 171 Visualization
     CS 181 Machine Learning
     CS 182 Artificial Intelligence
