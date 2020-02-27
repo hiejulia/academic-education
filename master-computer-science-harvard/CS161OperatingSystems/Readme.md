@@ -29,7 +29,9 @@
     + 
 + Scheduling 
     + 
-
++ OS abstraction 
+    + VM susbsystem, fork(),posix_spawn()
+    + 
 + Scalability and OS design 
 
 + Synchronization 
@@ -51,7 +53,10 @@
 + Processes, threads and hierarchies 
 
 + Wait queues 
-
+    + thread - sleep 
+    + kernel handle blocking event 
+    + life cycle of process, sleep wake up solution 
+    
 + Meltdown 
 
 
@@ -95,6 +100,7 @@
 
 
 + NFS 
+    + socket, VFS layer, 
 
 + System call and information leaks 
 + Defensive programming 
@@ -109,7 +115,10 @@
 + https://research.fb.com/publications/canopy-end-to-end-performance-tracing-at-scale/ : Facebook research : Canopy end to end performance tracing and analysis system : need to read 
 + http://cnp.neclab.eu/projects/lightvm/lightvm.pdf : need to read 
 + http://www.cs.utexas.edu/~vijay/papers/sosp17-pebblesdb.pdf : need to read 
-+ 
++ http://everdox.net/popss.pdf : need to read 
++ https://unsat.cs.washington.edu/papers/nelson-hyperkernel.pdf : need to read 
++ Meltdown: https://meltdownattack.com/meltdown.pdf
+
 
 
 ## Project 
@@ -122,3 +131,5 @@ Some projects for debug :
 
 
 
++ Cource : https://read.seas.harvard.edu/cs161/2019/schedule/ 
+https://read.seas.harvard.edu/cs161/2019/lectures/lecture23/
