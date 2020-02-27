@@ -14,11 +14,20 @@
   + Harvard 
   + Yale
 + Electronics engineer 
+  + Princeton
 + Biomedical engineer 
+  + Harvard
 + Industrial engineer
+  + ETH Zurich
 + Building technology 
+  + NTU 
 + Economics
+  + Harvard
+  + Oxford
 + Energy technology 
+  + Yale
 + Mechanical engineer 
+  + Stanford 
 + Mechatronics
+  + MIT 
 
