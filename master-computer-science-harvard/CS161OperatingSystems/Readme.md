@@ -121,9 +121,9 @@
 
 
 
-## Project 
+## Project : not yet doing 
 + Contribute for Linux Kernel (Open source )
-Some projects for debug : 
+Some projects for debug and furthur research or contribute 
 + Debug for Hyperkernel 
 + Canopy: end to end performance tracing and analysis system 
 + Pebbles DB : Key Value store using Fragmented log structureed merge trees
