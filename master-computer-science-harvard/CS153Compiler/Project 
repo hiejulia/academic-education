@@ -1,0 +1,18 @@
+Compiler project 
++ Two data types with type checking.
+• Basic arithmetic operations with operator 
++ Assignment statements.
+• A conditional control statement (e.g., IF).
+• A looping control statement.
+• Procedures or functions with calls and returns.
+• Parameters passed by value or by reference.
+• Basic error recovery (skip to semicolon or end of line).
+• Nontrivial sample programs written in the source language.
+• Generate Jasmin assembly code that can be successfully assembled.
+• Execute the resulting .class file.
+• No crashes (e.g., null pointer exceptions).
+
+
++ High level design of the compiler 
++ Syntax diagram 
++ 
