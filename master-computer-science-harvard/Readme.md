@@ -23,6 +23,7 @@
     CS 281 Advanced Machine Learning
     CS 282r Topics in Machine Learning
     CS 243 Advanced computer networks : is doing 
+    CS 246 Advanced computer architecture : is doing 
 
 
 #### Some other PhD course 
@@ -46,7 +47,6 @@
     CS 189 Autonomous robot system
     CS 223 Probabilistic analysis and algorithms 
     CS 242 Computing at scale 
-    CS 246 Advanced computer architecture 
     CS 247R Advanced topics in computer architecture
     CS 249R Special topics in edge computing: Autonomous machines 
     CS 252R Adfvanced topics in programming languages 
