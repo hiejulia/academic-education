@@ -24,19 +24,29 @@
     CS 282r Topics in Machine Learning
     CS 243 Advanced computer networks : is doing 
     CS 246 Advanced computer architecture : is doing 
-
+    CS 109 B Advanced topics in Data Science 
+    CS 281 Advanced machine learning
+    CS 252R Advanced topics in programming languages : is doing
+    CS 224 Advanced algorithms 
+    CS 247R Advanced topics in computer architecture
 
 #### Some other PhD course 
 
 
 #### Other advanced course at Bachelor level 
-    CS 224 Advanced algorithms 
+    AM106: Applied Algebra
+    AM107: Graph Theory and Combinatorics
+    CS222: Algorithms at the Ends of the Wire
+    Math 25a: Honors Linear Algebra and Real Analysis I
+    Math 25b: Honors Linear Algebra and Real Analysis II
+    AM21a: Mathematical Methods in the Sciences
+    CS182: Intelligent Machines: Reasoning, Actions, and Plans
     CS 61 System programming and machine organization 
     CS 91R Supervised reading and research 
-    CS 109 B Advanced topics in Data Science 
-    CS124 Datastructures and algorithms 
+    CS124 Datastructures and algorithms : is doing 
     CS 127 Cryptography 
     CS 141 Computing hardware
+    CS121: Introduction to Formal Systems and Computation
     CS 146 Computer architecture 
     CS 148 Design of VLSI Circuits and system 
     CS 153 Compiler : is doing 
@@ -47,13 +57,10 @@
     CS 189 Autonomous robot system
     CS 223 Probabilistic analysis and algorithms 
     CS 242 Computing at scale 
-    CS 247R Advanced topics in computer architecture
     CS 249R Special topics in edge computing: Autonomous machines 
-    CS 252R Adfvanced topics in programming languages 
     CS 263 System security 
     CS265 Big data system 
     CS 280R Curricular design for computer science: computational linguistics and natural language processing 
-    CS 281 Advanced machine learning
     CS 282BR Topics in ML : Interpretability and explainability 
     CS 282R Topics in ML : Batch reinforcement learning
     CS 283 Computer Vision 
