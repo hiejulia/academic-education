@@ -41,10 +41,10 @@
     Math 25b: Honors Linear Algebra and Real Analysis II
     AM21a: Mathematical Methods in the Sciences
     CS182: Intelligent Machines: Reasoning, Actions, and Plans
-    CS 61 System programming and machine organization 
+    CS 61 System programming and machine organization : is doing 
     CS 91R Supervised reading and research 
     CS124 Datastructures and algorithms : is doing 
-    CS 127 Cryptography 
+    CS 127 Cryptography : is doing 
     CS 141 Computing hardware
     CS121: Introduction to Formal Systems and Computation
     CS 146 Computer architecture 
@@ -66,3 +66,7 @@
     CS 283 Computer Vision 
     CS 299R Special topics in CS 
     CS 143 Computer networks : is doing 
+
+
+
+
