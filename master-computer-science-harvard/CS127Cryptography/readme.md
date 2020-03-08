@@ -66,3 +66,4 @@ A survey on quantum secure cryptographic systems / Tomoka Kan: This projects the
     + done : 
         + schedule lecture : 1, 25
         + lecture notes 
+    + not yet : do more research about all algorithms mentioned in lecture notes 
