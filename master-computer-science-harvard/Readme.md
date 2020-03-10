@@ -45,7 +45,7 @@
     CS 91R Supervised reading and research 
     CS124 Datastructures and algorithms : is doing 
     CS 127 Cryptography : is doing 
-    CS 141 Computing hardware
+    CS 141 Computing hardware : is doing 
     CS121: Introduction to Formal Systems and Computation
     CS 146 Computer architecture 
     CS 148 Design of VLSI Circuits and system 

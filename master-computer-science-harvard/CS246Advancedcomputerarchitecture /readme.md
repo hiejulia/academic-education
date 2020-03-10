@@ -10,11 +10,12 @@ Introduction to Power-Aware Computing
 https://github.com/kdumontnu/CS246_Final_Project
 
 # Course progress
-+ Next : First class architectural design contraint
++ Next : 	
+Information Technology and Resource Use.
 
 
 # Course resource
-+ https://github.com/kdumontnu/CS246_Final_Project
++ http://www.eecs.harvard.edu/~dbrooks/cs246-fall2004/
 
 
 # Course project 

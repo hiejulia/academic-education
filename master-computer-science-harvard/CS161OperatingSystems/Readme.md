@@ -133,3 +133,8 @@ Some projects for debug and furthur research or contribute
 
 + Cource : https://read.seas.harvard.edu/cs161/2019/schedule/ 
 https://read.seas.harvard.edu/cs161/2019/lectures/lecture23/
+
+
+
+# Course progress 
++ next 

@@ -64,13 +64,9 @@ Thu 12/19	Review of project report due
 + https://www.coursicle.com/harvard/courses/COMPSCI/243/
 
 
-
-
-
-
-
 # Progress 
-+ next : Control plane
++ http://minlanyu.seas.harvard.edu/teach/cs243-fall19/syllabus.html
++ next : Data plane (Minlan)
 
 
 
