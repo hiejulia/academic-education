@@ -27,14 +27,14 @@
     CS 109 B Advanced topics in Data Science 
     CS 281 Advanced machine learning
     CS 252R Advanced topics in programming languages : is doing
-    CS 224 Advanced algorithms 
-    CS 247R Advanced topics in computer architecture
+    CS 224 Advanced algorithms :
+    CS 247R Advanced topics in computer architecture : is doing 
 
 #### Some other PhD course 
 
 
 #### Other advanced course at Bachelor level 
-    AM106: Applied Algebra
+    AM106: Applied Algebra : is doing 
     AM107: Graph Theory and Combinatorics
     CS222: Algorithms at the Ends of the Wire
     Math 25a: Honors Linear Algebra and Real Analysis I
@@ -66,6 +66,20 @@
     CS 283 Computer Vision 
     CS 299R Special topics in CS 
     CS 143 Computer networks : is doing 
+
+
+
+
+
+https://www.coursicle.com/harvard/courses/COMPSCI/
+
+
+
+PhD Harvard : https://www.seas.harvard.edu/electrical-engineering/graduate-programs/general-requirements/ee-phd-model-program
+
+
+
+
 
 
 
