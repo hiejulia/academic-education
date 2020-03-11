@@ -1,0 +1,12 @@
+Configuring Your Environment
+
++ R and RStudio IDE , download packages 
+
++ Test installation 
+
++ Sign up for AWS 
+
+
+Homework2 
+
+Homework3 

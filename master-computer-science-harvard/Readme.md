@@ -24,7 +24,7 @@
     CS 282r Topics in Machine Learning
     CS 243 Advanced computer networks : is doing 
     CS 246 Advanced computer architecture : is doing 
-    CS 109 B Advanced topics in Data Science 
+    CS 109 B Advanced topics in Data Science : is doing 
     CS 281 Advanced machine learning
     CS 252R Advanced topics in programming languages : is doing
     CS 224 Advanced algorithms :
@@ -47,7 +47,7 @@
     CS 127 Cryptography : is doing 
     CS 141 Computing hardware : is doing 
     CS121: Introduction to Formal Systems and Computation
-    CS 146 Computer architecture 
+    CS 146 Computer architecture : is doing 
     CS 148 Design of VLSI Circuits and system 
     CS 153 Compiler : is doing 
     CS 144r/244r : Network Design Projects: Parallel and Distributed Deep Learning : https://www.eecs.harvard.edu/htk/courses/
