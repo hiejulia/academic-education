@@ -36,23 +36,21 @@
 #### Other advanced course at Bachelor level 
     AM106: Applied Algebra : is doing 
     AM107: Graph Theory and Combinatorics
-    CS222: Algorithms at the Ends of the Wire
+    CS222: Algorithms at the Ends of the Wire : is doing 
     Math 25a: Honors Linear Algebra and Real Analysis I
     Math 25b: Honors Linear Algebra and Real Analysis II
     AM21a: Mathematical Methods in the Sciences
     CS182: Intelligent Machines: Reasoning, Actions, and Plans
     CS 61 System programming and machine organization : is doing 
-    CS 91R Supervised reading and research 
     CS124 Datastructures and algorithms : is doing 
     CS 127 Cryptography : is doing 
     CS 141 Computing hardware : is doing 
-    CS121: Introduction to Formal Systems and Computation
+    CS121: Introduction to Formal Systems and Computation/Introduction to the Theory of Computation
     CS 146 Computer architecture : is doing 
     CS 148 Design of VLSI Circuits and system 
     CS 153 Compiler : is doing 
     CS 144r/244r : Network Design Projects: Parallel and Distributed Deep Learning : https://www.eecs.harvard.edu/htk/courses/
     CS 161 OS 
-    CS 165 Data system 
     CS 175 Computer graphics : is doing 
     CS 189 Autonomous robot system
     CS 223 Probabilistic analysis and algorithms 
