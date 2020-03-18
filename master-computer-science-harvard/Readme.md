@@ -57,7 +57,7 @@
     CS 242 Computing at scale 
     CS 249R Special topics in edge computing: Autonomous machines 
     CS 263 System security 
-    CS265 Big data system 
+    CS265 Big data system : is doing
     CS 280R Curricular design for computer science: computational linguistics and natural language processing 
     CS 282BR Topics in ML : Interpretability and explainability 
     CS 282R Topics in ML : Batch reinforcement learning
