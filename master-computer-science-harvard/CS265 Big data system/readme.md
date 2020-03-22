@@ -11,8 +11,8 @@ Central Learning Outcomes: Understanding fundamental concepts in data storage an
 
 
 
+# Course progress 
+    + class 3 : + http://daslab.seas.harvard.edu/classes/cs265/
 
 
-
-+ Course progress 
-    + class 2 : + http://daslab.seas.harvard.edu/classes/cs265/
+# Course project 
