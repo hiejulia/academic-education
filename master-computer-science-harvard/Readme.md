@@ -30,6 +30,15 @@
     CS 224 Advanced algorithms :
     CS 247R Advanced topics in computer architecture : is doing 
 
+#### Other advanced courses
+Salil Vadhan: CS 225 (Pseudorandomness)
+Michael Mitzenmacher: CS 223 (Probabilistic analysis and algorithms)
+Les Valiant: CS 229r (Special topics course: biology and complexity)
+Yaron Singer: CS 284r (Topics on computation in network and crowds)
+Vahid Tarokh: AM 106/206 (Applied algebra)
+David Parkes: CS 186 (Econ & computation)
+
+
 #### Some other PhD course 
 
 
@@ -56,11 +65,11 @@
     CS 223 Probabilistic analysis and algorithms 
     CS 242 Computing at scale 
     CS 249R Special topics in edge computing: Autonomous machines 
-    CS 263 System security 
+    CS 263 System security : is doing 
     CS265 Big data system : is doing
     CS 280R Curricular design for computer science: computational linguistics and natural language processing 
     CS 282BR Topics in ML : Interpretability and explainability 
-    CS 282R Topics in ML : Batch reinforcement learning
+    CS 282R Topics in ML : Batch reinforcement learning 
     CS 283 Computer Vision 
     CS 299R Special topics in CS 
     CS 143 Computer networks : is doing 

@@ -1,0 +1,5 @@
+Module Assignment: The follow-up assignment for this module is incorporated into a problemset in which students attempt to use reverse engineering techniques learned in class to gain remote access to, and exfiltrate data from, a simple email server. (This is, of course, only a simulated exercise!) The final question of the problemset asks students to imagine that they are employees of a software company, WidgetCo, whose intellectual property has been stolen by cyberattackers. In this scenario, WidgetCo believes that the email server they have already compromised belongs to hackers that have stolen its intellectual property, and wants the student identify a further vulnerability that will allow them to erase all data stored on the server. WidgetCo claims that these actions are morally justified in light of the initial attack, and in light of the fact that the hackers appear to be planning a new attack on both WidgetCo and another company. Students are asked to explain how they would respond to their employer’s request, and to provide a moral defense of their response that appeals to arguments discussed in class or the readings.
+
+
+
+
