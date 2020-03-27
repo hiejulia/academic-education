@@ -1,6 +1,6 @@
 ## CSE COURSES
 #### Core Courses
-    AM 205 Advanced Scientific Computing: Numerical Methods
+    AM 205 Advanced Scientific Computing: Numerical Methods: is doing
     AM 207 Advanced Scientific Computing: Stochastic Methods for Data Analysis, Inference, and Optimization
     CS 205 Computing Foundations for Computational Science : is doing 
     CS 207 Systems Development for Computational Science : DONE
@@ -73,7 +73,6 @@ David Parkes: CS 186 (Econ & computation)
     CS 283 Computer Vision 
     CS 299R Special topics in CS 
     CS 143 Computer networks : is doing 
-
 
 
 
