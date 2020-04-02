@@ -1,3 +1,9 @@
+---
+noteId: "38716fb0751611eabc1627f679e258ca"
+tags: []
+
+---
+
 # Course description
 This is a graduate-level course on optimization. The course covers mathematical programming and combinatorial optimization from the perspective of convex optimization, which is a central tool for solving large-scale problems. In recent years convex optimization has had a profound impact on statistical machine learning, data analysis, mathematical finance, signal processing, control, theoretical computer science, and many other areas. The first part will be dedicated to the theory of convex optimization and its direct applications. The second part will focus on advanced techniques in combinatorial optimization using machinery developed in the first part.
 

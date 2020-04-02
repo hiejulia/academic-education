@@ -1,3 +1,9 @@
+---
+noteId: "32a504c0725a11ea8272a332340254f6"
+tags: []
+
+---
+
 ## CSE COURSES
 #### Core Courses
     AM 205 Advanced Scientific Computing: Numerical Methods: is doing

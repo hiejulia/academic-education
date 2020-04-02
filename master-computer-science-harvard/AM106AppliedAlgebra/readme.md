@@ -1,3 +1,9 @@
+---
+noteId: "b36ca920751411eabc1627f679e258ca"
+tags: []
+
+---
+
 # Course syllabus
 
 Introduction (1 lecture)
@@ -15,8 +21,10 @@ Applications: error-correcting codes
 
 # Course progress 
 + http://madhu.seas.harvard.edu/courses/Fall2017/
-    + next : lecture 3 
+    + next : lecture 4
 
-
+# Course book progress : 
++ Mathematics for Computer Science : chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf 
+    + next : p21 
 # Course resource 
 + https://people.seas.harvard.edu/~salil/am106/

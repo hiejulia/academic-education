@@ -1,12 +1,20 @@
+---
+noteId: "65df72e0725911ea8272a332340254f6"
+tags: []
+
+---
+
 # academic-education
 
 ## Master degree 
 + Computer Science 
   + Harvard : on going 
+
   + Stanford
-  + MIT : on going 
+  + MIT : on going
 + Information networks 
   + MIT 
+
 
 
 ## Bachelor degree 
@@ -31,3 +39,20 @@
 + Mechatronics
   + MIT 
 
++ MIT 
+    + Aeronautics and Astronautics 
+    + Chemical engineer 
+    + Material Science 
+    + Mechanical engineer 
+    + Biology engineer 
+    + Electrical engineer 
+    + Nuclear science 
+
+
+
++ Other course 
+    + Digital signal processing 
+
+
+
+    
