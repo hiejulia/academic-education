@@ -1,3 +1,9 @@
+---
+noteId: "4d42ee40769811eaac1bef37da66fd51"
+tags: []
+
+---
+
 # Course syllabus 
 
 The class will review fundamental structures in modern microprocessor and computer system architecture design.  Tentative topics will include computer organization, instruction set design, memory system design, pipelining, and other techniques to exploit parallelism.  We will also cover system level topics such as storage subsystems and basics of multiprocessor systems.  The class will focus on quantitative evaluation of design alternatives while considering design metrics such as performance and power dissipation.
@@ -18,7 +24,16 @@ John L. Hennessy and David A. Patterson, ISBN 1-55860-596-7A
 
 # Course progress 
 + 
-    + next : 3 
+    + next : 4
 
 
 # Course project 
+
+
+
+# Some course notes 
+
+<a href="https://imgur.com/mJ7KKfr"><img src="https://i.imgur.com/mJ7KKfr.png" title="source: imgur.com" /></a>
+
+
+

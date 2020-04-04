@@ -1,3 +1,9 @@
+---
+noteId: "b771e920769211eaac1bef37da66fd51"
+tags: []
+
+---
+
 + Parallel computer architecture 
 + Multicore architecture programming 
 + Packet switch architecture 

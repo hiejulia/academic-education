@@ -1,3 +1,9 @@
+---
+noteId: "61922b50769711eaac1bef37da66fd51"
+tags: []
+
+---
+
 # Course syllabus
 
 Tentative schedule
@@ -31,8 +37,6 @@ spring break
 
 
 
-# Course resource 
-+ https://cs127.boazbarak.org/
 # Course assignment
 
 
@@ -63,7 +67,12 @@ Query and Communication Lower Bounds for Key-Exchange Protocols: a Survey / Noah
 A survey on quantum secure cryptographic systems / Tomoka Kan: This projects the landscape of cryptographic schemes whose security was analyzed in the setting where not only computation but also communication is quantum. This setting allows the adversary some extra powers, as they can make “super position queries” to the other parties, and the issue of security is quite subtle and interesting.
 
 # Course progress
-    + done : 
-        + schedule lecture : 1, 25
+    + https://cs127.boazbarak.org/
+        + done : schedule lecture : 1, 25,2
         + lecture notes 
     + not yet : do more research about all algorithms mentioned in lecture notes 
+
+
+
+# Course resource 
++ https://cs127.boazbarak.org/

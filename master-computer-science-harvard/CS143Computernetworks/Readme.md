@@ -1,3 +1,9 @@
+---
+noteId: "63e99360769811eaac1bef37da66fd51"
+tags: []
+
+---
+
 # Course syllabus 
 
 1. Basic Networking Concepts: Protocol Layering

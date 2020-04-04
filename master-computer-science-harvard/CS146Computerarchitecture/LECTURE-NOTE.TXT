@@ -1,0 +1,10 @@
+- ISA 
+- Ease of implementation : architecture 
+- Ease of programming : compiler 
+- x 86 
+- RISC vs. CISC 
+- Speed up on Kernels 
+- Intel SSE
+- Compiler optimization 
+- Calculate effective address 
+- pipeline 
