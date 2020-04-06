@@ -1,7 +1,3 @@
-# Course syllabus 
-
-
-
 # Course resource 
 + https://github.com/yangfanhaorb/CS141-Labs
 + http://www.eecs.harvard.edu/cs141/Site/Requirements.html

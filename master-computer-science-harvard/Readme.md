@@ -1,9 +1,3 @@
----
-noteId: "32a504c0725a11ea8272a332340254f6"
-tags: []
-
----
-
 ## CSE COURSES
 #### Core Courses
     AM 205 Advanced Scientific Computing: Numerical Methods: is doing
@@ -88,9 +82,6 @@ https://www.coursicle.com/harvard/courses/COMPSCI/
 
 
 PhD Harvard : https://www.seas.harvard.edu/electrical-engineering/graduate-programs/general-requirements/ee-phd-model-program
-
-
-
 
 
 

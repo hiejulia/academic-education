@@ -24,7 +24,19 @@
 + https://harvard-iacs.github.io/2019-CS207/
 
 ## Progress 
-+ DONE theory 
-+ Homework assignment : basic level 
+DONE 
+
+
+
+## Coourse book 
++ Designing Data Intensive Applications, by http://dataintensive.net/, The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann. Publisher: O'Reilly Media 2014
++ 
++ The Practice of Programming (ISBN 0-201-61586-X) by Brian W. Kernighan and Rob Pike, Addison-Wesley, 1999.
+Skiena: 
+- The Algorithm Design Manual
+Abelson, Sussmann and Sussmann: SICP and python based online version based on it: http://composingprograms.com/
+- High Performance Python: By Micha Gorelick, Ian Ozsvald. Oreilly Media 2014.
+- Hacker guide to Python https://thehackerguidetopython.com
+- Evaluating Derivatives: Principles and Techniques of Algorithmic Differentiation by Andreas Griewank
 
 
