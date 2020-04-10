@@ -102,12 +102,28 @@ Exascale computing
 Quantum computing
 Edge computing and analytics
 Future directions in extreme scale computing
+<a href="https://imgur.com/dzvR4ry"><img src="https://i.imgur.com/dzvR4ry.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/xi8cJct"><img src="https://i.imgur.com/xi8cJct.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/rImgqVe"><img src="https://i.imgur.com/rImgqVe.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/3k5BKVG"><img src="https://i.imgur.com/3k5BKVG.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/S3zryAP"><img src="https://i.imgur.com/S3zryAP.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/rMiKHAU"><img src="https://i.imgur.com/rMiKHAU.png" title="source: imgur.com" /></a>
+
+
+
+
 
 ## Course resource 
 - http://iacs-courses.seas.harvard.edu/courses/cs205/ 
 - https://github.com/harvard-cs-205 
 - http://iacs-courses.seas.harvard.edu/courses/cs205/
-
+- https://canvas.harvard.edu/courses/37285/assignments/syllabus 
+- https://github.com/harvard-cs-205/CS205-Spring2018-Projects 
 
 Recommended Textbooks
 Introduction to High Performance Computing for Scientists and Engineers; Georg Hager; CRC Press; July 2010
@@ -125,6 +141,11 @@ Cloud Computing for Science and Engineering; Ian Foster, Dennis Gannon; The MIT 
 ## Course progress(done checking)
 - http://iacs-courses.seas.harvard.edu/courses/cs205/resources.html
     - resource 
+        - Introduction to Parallel computing 
+        - https://computing.llnl.gov/tutorials/parallel_comp/#Abstract
+            - next : Concepts and Terminology
+                Limits and Costs of Parallel Programming
+                Amdahl's Law:
     - homework 
     - project 
 
@@ -133,6 +154,7 @@ Cloud Computing for Science and Engineering; Ian Foster, Dennis Gannon; The MIT 
 
 ## Course project 
 - https://github.com/harvard-cs-205
+- https://github.com/harvard-cs-205/CS205-Spring2018-Projects 
 
 A major component of the course is a final programming project. Your final project is to solve a compute or data intensive scientific problem using the platforms, tools and systems introduced in the course. You will collect the data, implement the tool, and analyze the performance of an end to end application. You are required to form teams and to partition the work among the team members. The final project has five milestones: the team formation, an in-class presentation of your project proposal, an in-class presentation of your progress with the design of the project, and project deliverables submission and final presentation to teaching staff.
 
