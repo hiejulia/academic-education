@@ -1,9 +1,3 @@
----
-noteId: "83f439d07b5c11ea9a92f9a9206e42ff"
-tags: []
-
----
-
 # Course syllabus 
 Recognize and recall programming models, platforms, open-source tools and computing architectures that are relevant to computational and data science
 Assessment of computational approaches and their practical applications to scientific problems

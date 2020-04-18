@@ -27,7 +27,7 @@ Advanced topics
 
 
 # Course resource : 
-+ https://www.cl.cam.ac.uk/teaching/1920/R265/materials.html
++ https://www.cl.cam.ac.uk/teaching/1920/R265/materials.html DONE 
 + http://pages.cs.wisc.edu/~sinclair/courses/cs758/fall2019/
 + https://explorecourses.stanford.edu/search;jsessionid=19o0cf72z6s6thpfjc8duu45s?q=CS&academicYear=20122013&page=14
 + https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs257/
@@ -45,6 +45,11 @@ Advanced topics
 + Research paper (Uber)
 + Research paper (Netflix)
 
+
+- https://www.cl.cam.ac.uk/teaching/1920/R265/materials.html
+    - DARKSILICON  AND  THEENDOFMULTICORESCALING
+    - The Accelerator Wall: Limits of Chip Specialization
+    - Next: Week 2: State-of-the-art Processor Design
 
 
 # Course assignment

@@ -1,4 +1,8 @@
 # Course syllabus (Master/ Graduate course)
+- SDN 
+- 
+
+
 Wed 09/04	Course Overview; Introduction of Networking (Minlan)
 how_to_read	
 Mon 09/09	End hosts (Minlan)
@@ -66,7 +70,7 @@ Thu 12/19	Review of project report due
 
 # Progress 
 + http://minlanyu.seas.harvard.edu/teach/cs243-fall19/syllabus.html
-+ next : Data plane (Minlan)
++ next : after data plane
 
 
 
