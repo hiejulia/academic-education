@@ -23,8 +23,8 @@
 ## Course resource 
 + https://harvard-iacs.github.io/2019-CS207/
 
-## Progress 
-DONE 
+## Progress : DONE 
+
 
 
 

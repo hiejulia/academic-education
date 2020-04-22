@@ -14,7 +14,7 @@
 
 #### Popular Electives
     AM 221 Advanced Optimization : is doing 
-    AM 227 Computational Methods in the Physical Sciences
+    AM 227 Computational Methods in the Physical Sciences : is doing 
     AM 231 Decision Theory : is doing 
     CS 165 Data Systems : DONE 
     CS 171 Visualization : is doing 
@@ -85,5 +85,6 @@ PhD Harvard : https://www.seas.harvard.edu/electrical-engineering/graduate-progr
 
 
 
+https://courses.harvard.edu/search?fq_school_nm=school_nm%3A%22Faculty%20of%20Arts%20and%20Sciences%22&fq_day=day%3A%22Monday%22&fq_dept_area_category=dept_area_category%3A%22Applied%20Mathematics%22&fq_xreg_fl=xreg_fl%3A%22Eligible%20for%20cross-registration%22&q=%2A&sort=course_days_sort%20asc%2Ccourse_time_sort%20asc%2Ccourse_title%20asc&start=0&rows=25
 
 

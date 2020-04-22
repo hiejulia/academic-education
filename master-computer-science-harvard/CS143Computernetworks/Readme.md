@@ -1,9 +1,3 @@
----
-noteId: "63e99360769811eaac1bef37da66fd51"
-tags: []
-
----
-
 # Course syllabus 
 
 1. Basic Networking Concepts: Protocol Layering
@@ -23,3 +17,6 @@ tags: []
 # Course resource 
 + https://s3.amazonaws.com/harvardcs242/2016-01-25courseoverviewMondaynoon.pdf
 + http://courses.cms.caltech.edu/cs143/
+
+
+# Course progress 
