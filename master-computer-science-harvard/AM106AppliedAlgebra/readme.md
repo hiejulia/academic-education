@@ -1,9 +1,3 @@
----
-noteId: "b36ca920751411eabc1627f679e258ca"
-tags: []
-
----
-
 # Course syllabus
 
 Introduction (1 lecture)

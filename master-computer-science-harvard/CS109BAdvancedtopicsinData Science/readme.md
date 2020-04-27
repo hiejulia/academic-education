@@ -1,9 +1,3 @@
----
-noteId: "410d9180751611eabc1627f679e258ca"
-tags: []
-
----
-
 # Course syllabus 
 Data Science 2 is the second half of a one-year introduction to data science. Building upon the material in Data Science 1, the course introduces advanced methods for data wrangling, data visualization, and statistical modeling and prediction. Topics include big data and database management, basic Bayesian methods, nonlinear statistical models, unsupervised learning, and topic models. The final module will consist of multiple deep learning subjects such as CNNs, RNNs and Autoencoders. The major programming languages used will be R and Python.
 

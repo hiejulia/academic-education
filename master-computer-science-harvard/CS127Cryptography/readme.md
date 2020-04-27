@@ -1,9 +1,3 @@
----
-noteId: "61922b50769711eaac1bef37da66fd51"
-tags: []
-
----
-
 # Course syllabus
 
 Tentative schedule
