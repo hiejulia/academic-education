@@ -55,4 +55,4 @@ May 11-17					Final project due
 
 ## My Progress 
 + http://minlanyu.seas.harvard.edu/teach/cs145-spring19/syllabus.html
-    + Next : Continue on cloud introduction, start on Data center topology
+    + Next : Cloud traffic
