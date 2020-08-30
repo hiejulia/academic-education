@@ -1,9 +1,3 @@
----
-noteId: "65df72e0725911ea8272a332340254f6"
-tags: []
-
----
-
 # academic-education
 
 ## Master degree 
