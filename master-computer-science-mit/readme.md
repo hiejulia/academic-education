@@ -1,3 +1,13 @@
-## Courses
+## Master Computer Science - MIT OCW 
 
-https://toc.csail.mit.edu/Who%20is%20Teaching%20What%20Fall%202014
+- Artificial Intelligence
+
+
+
+
+- Data mining
+
+
+
+- Algorithms 
+
