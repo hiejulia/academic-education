@@ -1,0 +1,5 @@
+- ML to classify email 
+- Predict moving rating
+- Cluster gene expression data
+- Collaborative filtering 
+- ML in genomic data 
