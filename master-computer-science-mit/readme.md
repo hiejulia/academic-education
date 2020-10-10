@@ -6,9 +6,10 @@ Graduate level courses from MIT OCW
 
 
 
-- Data mining
+- Data science 
 
 
 
 - Algorithms 
+
 
