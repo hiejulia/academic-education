@@ -10,7 +10,8 @@ Graduate level courses from MIT OCW
     - 6.341 Discrete-Time Signal Processing 
     - 6.345 Automatic Speech Recognition 
     - 6.S191 Introduction to Deep Learning
-    
+    - Algorithm aspect of machine learning
+    - 
 
 
 
@@ -28,6 +29,11 @@ Graduate level courses from MIT OCW
     - 6.432 Stochastic Processes, Detection, and Estimation
     - Mathematics of big data and machine learning
     - Prediction machine learning and statistics
+    - Statistics and visualization for data analysis and inference 
+    - Topics in Statistic: Statistical learning theory
+    - Mathematics of machine learning
+    - Statistical learning theory and applications
+
 
 
 
@@ -57,4 +63,6 @@ Graduate level courses from MIT OCW
     - 6.876J Advanced Topics in Cryptography
     - 6.824 Distributed Computer Systems Engineering 
     - 6.341 Discrete-Time Signal Processing 
+    - Cryptocurrency engineer and design 
+    - Research seminar 
 
