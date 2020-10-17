@@ -36,8 +36,6 @@ Graduate level courses from MIT OCW
 
 
 
-
-
 - Algorithms 
     - 6.046J Design and Analysis of Algorithms (Spring 2015)
     - 6.079 Introduction to Convex Optimization
