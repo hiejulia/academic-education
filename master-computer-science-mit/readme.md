@@ -11,7 +11,6 @@ Graduate level courses from MIT OCW
     - 6.345 Automatic Speech Recognition 
     - 6.S191 Introduction to Deep Learning
     - Algorithm aspect of machine learning
-    - 
 
 
 
@@ -24,7 +23,6 @@ Graduate level courses from MIT OCW
     - How to Process, Analyze and Visualize Data (January IAP 2012)
     - 6.S083 Introduction to Computational Thinking with Julia, with Applications to Modeling the COVID-19 Pandemic (Spring 2020)
     - 6.436J Fundamentals of Probability (Fall 2018)
-    - 6.374 Analysis and Design of Digital Integrated Circuits (Fall 2003)
     - 6.431 Probabilistic Systems Analysis and Applied Probability (Fall 2010)
     - 6.432 Stochastic Processes, Detection, and Estimation
     - Mathematics of big data and machine learning
