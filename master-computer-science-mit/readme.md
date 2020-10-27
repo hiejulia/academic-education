@@ -36,13 +36,13 @@ Graduate level courses from MIT OCW
 
 - Algorithms 
     - 6.046J Design and Analysis of Algorithms (Spring 2015)
-    - 6.079 Introduction to Convex Optimization
+        - 6.079 Introduction to Convex Optimization
     - 6.264J Queues: Theory and Applications
     - 6.265J Advanced Stochastic Processes 
     - 6.856J Randomized Algorithms
         - 6.854J Advanced Algorithms 
         - 6.852J Distributed Algorithms 
-    - 6.851 Advanced Data Structures (Spring 2012)
+        - 6.851 Advanced Data Structures (Spring 2012)
     - 6.841J Advanced Complexity Theory (Spring 2016)
     - 6.438 Algorithms for Inference (Fall 2014)
     - 6.339J Numerical Methods for Partial Differential Equations (SMA 5212) (Spring 2003)
