@@ -1,5 +1,7 @@
 # academic-education
 
+In attempt to open source education system. :) 
+
 ## Master degree 
 + Computer Science 
   + Harvard : on going 
